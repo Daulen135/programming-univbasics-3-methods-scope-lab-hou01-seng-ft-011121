@@ -23,7 +23,7 @@ end
 link
 
 def all_phrases
-  last="And now all_phrases together"
+  last="puts out all of the previous catch phrases"
   puts last
 end
   all_phrases
