@@ -6,7 +6,7 @@ end
 
 mario
 
-$status
+$status=
 def toadstool
   puts status
 end
