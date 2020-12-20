@@ -23,9 +23,11 @@ link("It's Dangerous To Go Alone! Take This.")
 
 
 def all_phrases
-  
+  last="and now all_phrases"
+  puts last
+end
   mario 
   toadstool
   link 
-end
+
 all_phrases
