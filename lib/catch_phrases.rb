@@ -20,4 +20,4 @@ def link (phrase)
   puts phrase
   phrase
 end
-link
+link(phrase)
