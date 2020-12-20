@@ -10,7 +10,7 @@ mario
 $status='Thank You Mario! But Our Princess Is In Another Castle!'
 def toadstool
   puts $status
-  $
+  $status
 end
 toadstool
 
@@ -18,4 +18,6 @@ toadstool
 def link (phrase)
   phrase="It's Dangerous To Go Alone! Take This."
   puts phrase
+  phrase
 end
+link
