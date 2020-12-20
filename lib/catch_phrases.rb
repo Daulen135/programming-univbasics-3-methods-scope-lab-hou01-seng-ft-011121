@@ -20,4 +20,4 @@ def link (phrase)
   puts phrase
   phrase
 end
-link(phrase)
+link(It's Dangerous To Go Alone! Take This.")
