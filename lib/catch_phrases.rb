@@ -13,6 +13,7 @@ end
 toadstool
 
 
-def link 
+def link (phrase)
+  phrase=
   puts "It's Dangerous To Go Alone! Take This."
 end
