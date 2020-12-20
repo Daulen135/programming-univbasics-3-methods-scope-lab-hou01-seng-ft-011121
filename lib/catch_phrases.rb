@@ -19,4 +19,5 @@ def link (phrase)
    puts phrase
   phrase
 end
-link(go)
+link("go")
+
