@@ -16,12 +16,11 @@ toadstool
 
 
 def link 
-  phrase =
+  phrase ="It's Dangerous To Go Alone! Take This."
    puts phrase
   phrase
 end
-link("It's Dangerous To Go Alone! Take This.")
-
+link
 
 def all_phrases
   last="And now all_phrases together"
