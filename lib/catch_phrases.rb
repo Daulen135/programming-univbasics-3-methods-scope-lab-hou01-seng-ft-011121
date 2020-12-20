@@ -15,8 +15,9 @@ end
 toadstool
 
 
-def link (phrase)
-   puts #{phrase}
+def link 
+  phrase =
+   puts phrase
   phrase
 end
 link("It's Dangerous To Go Alone! Take This.")
