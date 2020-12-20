@@ -25,10 +25,12 @@ link
 def all_phrases
   last="puts out all of the previous catch phrases"
   puts last
+  last
+  mario
+  toadstool
+  link
 end
   all_phrases
-  mario 
-  toadstool
-  link 
+
 
 
