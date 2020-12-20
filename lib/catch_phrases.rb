@@ -6,3 +6,6 @@ end
 
 mario
 
+def toadstool
+  puts status
+end
