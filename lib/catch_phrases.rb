@@ -21,3 +21,10 @@ def link (phrase)
 end
 link("It's Dangerous To Go Alone! Take This.")
 
+
+def all_phrases
+  mario 
+  toadstool
+  link 
+end
+all_phrases
